@@ -1,0 +1,64 @@
+---
+layout: default
+title: Illustrations
+description: Illustrations made by Lizhen
+---
+
+<!-- <section class="intro">
+
+	<div class="wrap">
+
+		<p class="intro-text">An Illustrator.</p>
+
+	</div>
+
+</section> -->
+
+
+
+<section class="portfolio" id="illustrations">
+
+	<div class="content-wrap illustration-wrap effect-2" id="grid">
+
+		{% for project in site.data.illustrations.projects %}
+
+    {% if project.scale %}
+		  <div class="illustration-item portfolio-item--width{{project.scale}}">
+    {% else %}
+		  <div class="illustration-item">
+    {% endif %}
+
+			<!-- <a class="portfolio-item__link" href="{{ project.url }}"> -->
+      <a 
+        class="portfolio-item__link illustrations__link" 
+        href="{{ project.src }}"
+        data-sub-html="<h4>{{ project.title}}</h4><p> {{project.desc}} </p>"
+      >
+
+        <div class="placeholder"></div>
+        <div class="portfolio-item__image">
+          <img src="
+            {% if project.thumb %}
+              {{ project.thumb }}
+            {% else %}
+              {{ project.src }}
+            {% endif %}
+          " alt="{{ title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<!-- <h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p> -->
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>

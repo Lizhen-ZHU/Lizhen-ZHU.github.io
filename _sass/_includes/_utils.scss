@@ -1,0 +1,13 @@
+.intro-text {
+  // when device-width is greater than tablet
+	@include mq(tabletp) {
+    font-size: 25px
+  }
+  font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 110px;
+}
+
+.img-border {
+  border: 1px solid #f1f1f1;
+}

@@ -1,0 +1,106 @@
+projects:
+
+  - title: SELF-COMMUNICATION (2016) [1/8]
+    desc: 'People needs to pay more attetion to ourselves' 
+    src: '/images/visuals/2-1.jpg'
+    thumb: '/images/visuals/2-1.thumb.jpg' 
+
+
+  - title: SELF-COMMUNICATION (2016) [2/8] 
+    desc: 'The cure way-MOXA-MOXIBUSTION ' 
+    src: '/images/visuals/2-4.jpg'
+    thumb: '/images/visuals/2-4.thumb.jpg' 
+
+  - title: SELF-COMMUNICATION (2016) [3/8]
+    desc: 'A Chinese way for health' 
+    src: '/images/visuals/2-5.jpg'
+    thumb: '/images/visuals/2-5.thumb.jpg' 
+
+  - title: SELF-COMMUNICATION (2016) [4/8]
+    desc: 'Chinese Character Tattoo' 
+    src: '/images/visuals/2-9.jpg'
+    thumb: '/images/visuals/2-9.thumb.jpg' 
+
+  - title: SELF-COMMUNICATION (2016) [5/8] 
+    desc: 'Self- measurement' 
+    src: '/images/visuals/2-6.jpg'
+    thumb: '/images/visuals/2-6.thumb.jpg'
+
+  - title: SELF-COMMUNICATION (2016) [6/8] 
+    desc: ' The hair-removal by traditional Chinese way' 
+    src: '/images/visuals/2-7.jpg'
+    thumb: '/images/visuals/2-7.thumb.jpg' 
+  
+  - title: SELF-COMMUNICATION (2016) [7/8] 
+    desc: 'Palmstry About Love and Career' 
+    src: '/images/visuals/2-8.jpg'
+    thumb: '/images/visuals/2-8.thumb.jpg' 
+  
+  
+  - title: SELF-COMMUNICATION (2016) [8/8] 
+    desc: 'Game Wall let others labling you' 
+    src: '/images/visuals/2-10.jpg'
+    thumb: '/images/visuals/2-10.thumb.jpg' 
+
+  - title: TAIL LANGUAGE (2016) [1/5]
+    desc: The tail attempts to abandon all electrical equipment to let people return to the original society. 
+    src: '/images/visuals/1-1.jpg'
+    thumb: '/images/visuals/1-1.thumb.jpg'
+
+  # - title: TAIL LANGUAGE (2016) [2/6]
+  #   desc: 'Info-graphic for exisiting society research ' 
+  #   src: '/images/visuals/1-2.png'
+  #   thumb: '/images/visuals/1-2.thumb.jpg' 
+
+  - title: TAIL LANGUAGE (2016) [2/5]
+    desc: 'Info-graphic for exisiting society research ' 
+    src: '/images/visuals/1-3.png'
+    thumb: '/images/visuals/1-3.thumb.jpg'
+
+  - title: TAIL LANGUAGE (2016) [3/5]
+    desc: 'Info-graphic explanation of diversity tail dynamic condition' 
+    src: '/images/visuals/1-4.png'
+    thumb: '/images/visuals/1-4.thumb.jpg' 
+
+  - title: TAIL LANGUAGE (2016) [4/5]
+    desc: 'Manual Tail -The fur & Plastic with light' 
+    src: '/images/visuals/1-6.jpg'
+    thumb: '/images/visuals/1-6.thumb.jpg' 
+
+  - title: TAIL LANGUAGE (2016) [5/5]
+    desc: 'Tail society' 
+    src: '/images/visuals/1-7.jpg'
+    thumb: '/images/visuals/1-7.thumb.jpg' 
+
+  
+  
+  - title: ODOR DESIGN CONCEPT (2016) [1/3]
+    desc: 'Create Love based on our Odor' 
+    src: '/images/visuals/3-1.jpg'
+    thumb: '/images/visuals/3-1.thumb.jpg' 
+  
+  - title: ODOR DESIGN CONCEPT (2016) [2/3]
+    desc: 'Odor Capture and Collection ' 
+    src: '/images/visuals/3-2.jpg'
+    thumb: '/images/visuals/3-2.thumb.jpg' 
+  
+  - title: ODOR DESIGN CONCEPT (2016) [3/3]
+    desc: 'Branding design ' 
+    src: '/images/visuals/3-3.png'
+    thumb: '/images/visuals/3-3thumb.png'   
+
+  - title: Metro system design (9.2018)
+    desc: Rochester metro system design concept
+    src: '/images/visuals/info-metro.png'
+    thumb: '/images/visuals/info-metro-thumb.png'
+      
+  - title: Beijing population & housing price (12.2018)
+    desc: Map and statistic design about Beijing population and housing price increasing from 2000 to 2010
+    src: '/images/visuals/info-beijing.png'
+    thumb: '/images/visuals/info-beijing-thumb.png'
+  - title: Billing statement redesign (10.2018)
+    desc: AT&T billing statement redesign
+    src: '/images/visuals/info-billing.png'
+    thumb: '/images/visuals/info-billing-thumb.png'
+
+  

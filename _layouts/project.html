@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		{% if page.header_image %}
+		<img style="margin-bottom: 40px" src="{{ page.header_image }}">
+		{% endif %}
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="single">
+
+  {{ page.content }}
+  
+  <!-- pager -->
+  <hr>
+  <ul class="pager">
+      {% if page.previous.url %}
+      {% if page.previous.hidden != true %}
+      <li class="previous">
+        <div class="portfolio-item">
+          <a class="portfolio-item__link" href="{{ page.previous.url }}">
+            <article 
+              style="background-image:url({{ page.previous.featured_image }})">
+            </article>
+            <div class="portfolio-item__content">
+              <div class="portfolio-item__info">
+                <h2 class="portfolio-item__title">{{ page.previous.title }}</h2>
+                <!-- <p class="portfolio-item__subtitle">{{ page.previous.subtitle }}</p> -->
+              </div>
+            </div>
+          </a>
+   		  </div>
+      </li>
+      {% endif %}
+      {% endif %}
+      {% if page.next.url %}
+      {% if page.next.hidden != true %}
+      <li class="next">
+        <div class="portfolio-item">
+          <a class="portfolio-item__link" href="{{ page.next.url }}">
+            <article 
+              style="background-image:url({{ page.next.featured_image }})">
+            </article>
+            <div class="portfolio-item__content">
+              <div class="portfolio-item__info">
+                <h2 class="portfolio-item__title">{{ page.next.title }}</h2>
+                <!-- <p class="portfolio-item__subtitle">{{ page.next.subtitle }}</p> -->
+              </div>
+            </div>
+          </a>
+   		  </div>
+      </li>
+      {% endif %}
+      {% endif %}
+  </ul>
+
+</section>

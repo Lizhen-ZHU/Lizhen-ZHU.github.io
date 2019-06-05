@@ -1,0 +1,56 @@
+---
+layout: default
+title: Lizhen Zhu
+description: UI made by Lizhen Zhu
+featured_image: /images/logo.png 
+---
+
+<!-- <section class="intro">
+
+	<div class="wrap">
+
+    <p class="intro-text" style="margin:0; padding:0;"> A Designer Specializing In User Experience. </p>
+
+	</div>
+
+</section> -->
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for project in site.projects reversed %}
+		{% if project.hidden != true %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url }}">
+
+				<div class="portfolio-item__image">
+          {% if project.featured_video %}
+            <div class="placeholder"></div>
+            <video muted autoplay loop playsinline>
+              <source src="{{ project.featured_video }}">
+            </video>
+          {% else %}
+            <img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+          {% endif %}
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endif %}
+		{% endfor %}
+
+	</div>
+
+</section>

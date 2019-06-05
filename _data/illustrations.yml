@@ -1,0 +1,118 @@
+projects:
+
+  - title:  Thesis character 1
+    desc: 
+    src: '/images/illustrations/thesis/5year.jpg'
+    thumb: '/images/illustrations/thesis/5year-thumb.jpg'
+  - title:  Thesis character 2
+    desc: 
+    src: '/images/illustrations/thesis/15year.jpg'
+  - title:  Thesis character 3
+    desc: 
+    src: '/images/illustrations/thesis/18year.jpg'
+  - title:  Thesis character 4
+    desc: 
+    src: '/images/illustrations/thesis/21year.jpg'
+  - title:  Thesis character 5
+    desc: 
+    src: '/images/illustrations/thesis/26year.jpg'
+  - title:  Thesis character 6
+    desc: 
+    src: '/images/illustrations/thesis/32year.jpg'
+  - title:  Thesis character 7
+    desc: 
+    src: '/images/illustrations/thesis/36year.jpg' 
+  - title: UX girl
+    desc:  
+    src: '/images/illustrations/workgirl.png'
+    thumb: '/images/illustrations/workgirl-thumb.png'  
+  - title: EVENTS CATEGORY FOR BUSINESS
+    desc: Social 
+    src: '/images/illustrations/google-1.png'
+    thumb: '/images/illustrations/google.thumb1.jpg'
+  - title: EVENTS CATEGORY FOR UI
+    desc: All events 
+    src: '/images/illustrations/google-2.png'
+    thumb: '/images/illustrations/google.thumb2.png'
+  - title: EVENTS CATEGORY FOR UI
+    desc: Music 
+    src: '/images/illustrations/google-3music.png'
+    thumb: '/images/illustrations/google.thumb3.jpg'
+  - title: EVENTS CATEGORY FOR UI 
+    desc: Sports 
+    src: '/images/illustrations/google-4.png'
+    thumb: '/images/illustrations/google.thumb4.jpg'
+  - title: EVENTS CATEGORY FOR UI
+    desc: Volunteering 
+    src: '/images/illustrations/google-volunteering.png'
+    thumb: '/images/illustrations/google.thumb5.png'
+
+  - title: EVENTS CATEGORY FOR UI
+    desc: Art 
+    src: '/images/illustrations/google-6.png'
+    thumb: '/images/illustrations/google.thumb6.png'
+    
+  - title:  when i was a girl - 1
+    desc: A mom meet 15 years old herself in her dream
+    src: '/images/illustrations/1.jpg'
+    thumb: '/images/illustrations/1.thumb.jpg'
+  - title: 'when i was a girl - 2'
+    desc: '' 
+    src: '/images/illustrations/2.jpg'
+    thumb: '/images/illustrations/2.thumb.jpg'
+  - title: 'when i was a girl - 3'
+    desc: '' 
+    src: '/images/illustrations/3.jpg'
+    thumb: '/images/illustrations/3.thumb.jpg'
+  - title: 'when i was a girl - 4'
+    desc: '' 
+    src: '/images/illustrations/4.jpg'
+    thumb: '/images/illustrations/4.thumb.jpg'
+  - title: 'when i was a girl - 5'
+    desc: '' 
+    src: '/images/illustrations/5.jpg'
+    thumb: '/images/illustrations/5.thumb.jpg'
+  - title: 'WAIT IN LINE'
+    desc: 'Doodle' 
+    src: '/images/illustrations/6.jpg'
+    thumb: '/images/illustrations/6.thumb.jpg'
+  - title: 'Sleeping Cat'
+    desc: '' 
+    src: '/images/illustrations/9.gif' 
+  - title:  
+    src: '/images/illustrations/12.png'
+    thumb: '/images/illustrations/12.thumb.jpg'
+  - title: 'PUZZLE'
+    desc: 'iPad, Procreate ' 
+    src: '/images/illustrations/13.png'
+    thumb: '/images/illustrations/13.thumb.jpg'
+  - title: ''
+    desc: 'Copying Painting Practice <br> iPad, Procreate ' 
+    src: '/images/illustrations/14doodle.jpg'
+  - title: 'WHERE ARE YOU'
+    desc: '' 
+    src: '/images/illustrations/7.jpg'
+    thumb: '/images/illustrations/7.thumb.jpg'
+  # - title: 'COMMUNITY LIFE'
+  #   desc: 'Sketch' 
+  #   src: '/images/illustrations/sketch2.jpg'
+  #   thumb: '/images/illustrations/sketch2.thumb.jpg'       
+  - title: ''
+    desc: 'Copying Painting Practice' 
+    src: '/images/illustrations/8.jpg'
+    thumb: '/images/illustrations/8.thumb.jpg'
+  - title: 'TRAVEL PLANNING'
+    desc: '' 
+    src: '/images/illustrations/10.jpg'
+    thumb: '/images/illustrations/10.thumb.jpg'
+  - title: ''
+    desc: '2019 - 11 - 13' 
+    src: '/images/illustrations/11.jpg'
+    thumb: '/images/illustrations/11.thumb.jpg'
+  # - title: 'FUTURE FOOD IDEATION'
+  #   desc: 'Sketch' 
+  #   src: '/images/illustrations/sketch1.jpg'
+  #   thumb: '/images/illustrations/sketch1.thumb.jpg'
+  
+ 
+ 

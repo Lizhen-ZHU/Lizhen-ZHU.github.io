@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% if page.hide-intro != true %}
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+{% endif %}
+
+<section class="single">
+
+	{{ page.content }}
+
+</section>
