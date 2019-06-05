@@ -1,9 +1,9 @@
 {
-  "name": "sherry",
-  "title": "Sherry",
+  "name": "Lizhen Zhu",
+  "title": "Lizhen",
   "author": "Hux <huxpro@gmail.com>",
-  "version": "0.1.0",
-  "homepage": "http://xuechundesign.github.io",
+  "version": "0.1.1",
+  "homepage": "https://lizhen-zhu.github.io/web/",
   "scripts": {
       "start" : "jekyll serve -w -l --host 0.0.0.0 --port 4100"
   }
