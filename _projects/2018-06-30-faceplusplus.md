@@ -3,7 +3,7 @@ title: 'User Experience Design'
 subtitle: 'Mobile Event Application'
 
 date: 2018-12-30 00:00:00
-featured_image: 'https://lizhenzhu.com/CVworks/img/29.jpg'
+featured_image: 'https://res.cloudinary.com/dxzphanl0/image/upload/v1560096531/27.jpg'
 ---
 
 <!-- <p class="intro-text"> 
