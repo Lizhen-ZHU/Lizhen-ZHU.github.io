@@ -14,6 +14,42 @@ description: Graphics made by Lizhen
 
 </section> -->
 
+	<div class="content-wrap portfolio-wrap">
+
+		{% for project in site.projects reversed %}
+		{% if project.hidden != true %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url }}">
+
+				<div class="portfolio-item__image">
+          {% if project.featured_video %}
+            <div class="placeholder"></div>
+            <video muted autoplay loop playsinline>
+              <source src="{{ project.featured_video }}">
+            </video>
+          {% else %}
+            <img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+          {% endif %}
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endif %}
+		{% endfor %}
+
+	</div>
+
 <section class="portfolio" id="illustrations">
 
 	<div class="content-wrap illustration-wrap effect-2" id="grid">
