@@ -4,19 +4,11 @@ title: Graphics
 description: Graphics made by Lizhen
 ---
 
-<!-- <section class="intro">
 
-	<div class="wrap">
-
-		<h1>A Visual Designer.</h1>
-
-	</div>
-
-</section> -->
-
+<section class="portfolio">
 	<div class="content-wrap portfolio-wrap">
 
-		{% for project in site.projects reversed %}
+		{% for project in site.posts reversed %}
 		{% if project.hidden != true %}
 
 		<div class="portfolio-item">
@@ -49,59 +41,4 @@ description: Graphics made by Lizhen
 		{% endfor %}
 
 	</div>
-
-<section class="portfolio" id="illustrations">
-
-	<div class="content-wrap illustration-wrap effect-2" id="grid">
-
-		{% for project in site.data.visuals.projects %}
-
-    {% if project.scale %}
-		  <div class="illustration-item portfolio-item--width{{project.scale}}">
-    {% else %}
-		  <div class="illustration-item">
-    {% endif %}
-
-			<!-- <a class="portfolio-item__link" href="{{ project.url }}"> -->
-      <a 
-        class="portfolio-item__link illustrations__link" 
-        href="{{ project.src }}"
-        data-sub-html="{{ project.title}} <p> {{project.desc}} </p>"
-      >
-
-        <div class="placeholder"></div>
-        <div class="portfolio-item__image">
-          <article 
-            style="background-image:url(
-              {% if project.thumb %}
-                {{ project.thumb }}
-              {% else %}
-                {{ project.src }}
-              {% endif %}
-            )">
-          </article>
-          <img style="display:none" src="
-            {% if project.thumb %}
-              {{ project.thumb }}
-            {% else %}
-              {{ project.src }}
-            {% endif %}
-          " alt="{{ title }}">
-				</div>
-
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<!-- <h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p> -->
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
-		{% endfor %}
-
-	</div>
-
 </section>

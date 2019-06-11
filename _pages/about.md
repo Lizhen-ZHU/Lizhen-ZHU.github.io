@@ -14,7 +14,7 @@ Imbuing empathy and perspective through experience and interaction design.
 <div class="row fit">
   <div class="col-sm-6 col-xs-12">
     <!-- first column starts from here -->
-    <img src="/images/about/hime.jpg"/>
+    <img src="/images/about/me1.jpg"/>
     <!-- first column ends here -->
   </div>
   <div class="col-sm-6 col-xs-12">
