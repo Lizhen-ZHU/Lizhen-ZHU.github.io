@@ -1,34 +1,40 @@
 ---
 title: 'Adventure in LALALAND'
-subtitle: 'School events discovery for students'
-date: 2000-01-20 00:00:00
+subtitle: 'Web Interaction Design'
+date: 2018-10-20 00:00:00
 featured_image: '/images/lala/lala2.gif'
 
 
 ---
 
-![](/images/google/all.png)
+![](/images/lala/1.png)
 
+
+
+  Click to enter [Advanture in LALALAND](https://lizhen-zhu.github.io/lala-land/index.html) 
+
+<br><br>
 <div class="row fit">
   <div class="col-sm-3 col-xs-12">
-    <!-- first column starts from here -->
+
    
-    <h6>Duration</h6>
-    7 days
-    <h6>Type</h6>
-    Mobile device
-    <h6>Target user</h6>
-    Students and new comers
-    <!-- first column ends here -->
+    <h6>Timeline:</h6>
+    Nov – Dec 2018 <br>(6 weeks) 
+    <h6>Type:</h6>
+    Individual Project; 
+  
   </div>
   <div class="col-sm-9 col-xs-12">
-    <!-- second column starts from here -->
-    <h6>Prompt </h6>
-    <ul>
-    Design an experience for students to discover orientation events and craft a visual system to accommodate different types of events: sports, music, visual arts, social groups, and volunteering events. Provide high-fidelity mocks for searching, browsing, and viewing the details for these different events.
-       </ul>
-        
-    <!-- second column ends here -->
+   
+    <h6>Role:</h6>
+    Front End Developer, Interaction Designer, UX Designer; 
+     <h6>Program Language:</h6>
+    HTML, CSS3, JavaScript, BootStrap, jQuery; 
+   
+    <h6>Project Aspects:</h6>
+    Ideation, responsive design, front-end development, visual design research, wireframes, visual design, animation; 
+
+   
   </div>
 </div> 
 
@@ -36,161 +42,74 @@ featured_image: '/images/lala/lala2.gif'
 <br>
 <br>
 
-### The Problems
+### Project description
 
-- For new students don't know the way to make friends quickly and join events as they interested in
-- The messy interface results in many students spend lots of time searching, browsing and view diverse orientation events
-- Some students cannot come to some interesting event due to their other schedules conflicted
+<br> <br>
 
-### The Solutions
+‘Adventure in LALALAND’ is a commercial website with the movie theme, focuses on storytelling visualization and human-computer interaction. 
 
--  An intuitive application for students finding events in an easy and quick way
--  Discovering and searching events by categories, such as sports, music, visual art, volunteering and social
--  Helping the unable to be attended students can also experience the events and know what's happening in the real time by **Live**
+In this website, users will have a taste of the movie within the time of a song and explore all the possibilities by themselves. With the music, the virtual effect and the user interaction, users could have a deeper understanding of the story itself and also the message that the movie wants to tell us. 
 
-### User Pain Point
+In the technical part, this project uses pure CSS, JavaScript, and jQuery with no other libraries. This project gave me the opportunity to utilize all aspects of the user-centered design process, including UX Research (research, wireframing, prototyping), Design (visual, UI, interaction, motion) as well as Front-End Development (HTML/CSS/JS). 
 
-- The wide range of events are always showing in a broad disorder every day
-- Sometimes my schedule is conflict with many events that I'm interested in
-- The flow for basic searching is always complicated to use
+<br><br><br>
+![](/images/lala/lala1.gif)
+### Project detail
+Hello, welcome to my website ‘Adventure in LALALAND’. This is a commercial website with the movie theme, based on the movie 'LA LA LAND'. 
 
-### Information Architecture
+I want users to have a taste of the movie within the time of a song and explore all the possibilities by themselves. With the music, the virtual effect and the user interaction, people could have a deeper understanding of the story itself and also the message/idea that the movie wants to tell us.
 
-After making sure the main problems' target, I start to build this IA to help me clarify the useful and necessary features is gonna serve for my app.
-
-![](/images/google/info-architecture.png)
-
-#### Sketches
+### Page One -Piano
+![](https://res.cloudinary.com/dxzphanl0/image/upload/v1560400000/la11.gif)
 
 
 
-<div class="gallery" data-columns="1">
-	<img src="/images/google/sketch/1.png">
-	<img src="/images/google/sketch/2.png">
-	<img src="/images/google/sketch/3.png">
-	<img src="/images/google/sketch/4.png">
-</div>
+In the first page, people would see a simple virtual piano and the dancing background. People may feel confused for the first time since I didn't tell them what they should do and what to expect.  But I designed it on purpose. I want the users to explore the page and get into the story by themselves and the piano serves as a key. 
 
-#### Lo-fi
+By randomly pressing the key, the alert shows up and tell them what to do. Then following the correct instruction, they will find the secret password to enter the LALALAND. And the user will be surprised by what they did since these four keys are also the first sound of the theme music, which is also connected to the next page
 
-After a series of rough sketches, to figure out user flows and overall layout, I start with wireframe first. My wireframe helps me to make sure the information hierarchy works in a right way.
+### Page Two -Trailer
+![](/images/lala/12.gif)
 
-![](/images/google/wireframe.png)
+After they step into the story, here comes to the official trailer with the big movie name. The sound starts to play after we press the right keyboard. With the romantic music and movie scene, users could better understand the theme and content of this movie, also bring wonderful audio-visual enjoyment to the users. What is more, there is a comment section that is renewed every 5 seconds, telling more information to the users about this movie.
 
-**1.** The live-card is design to hlep some students who are too busy to attend in their interested events. Getting the fresh things happening in a different but practical way.
+### Page Three- Cast
+![](https://res.cloudinary.com/dxzphanl0/image/upload/v1560399899/2.gif)
 
-**2.** Showing the most popular events to help students finding event easier. To saving space of the screen, and avoid over-slidehi down, feel free to swipe cards to know more about popular.
+By clicking the navigation bar on the top, the page will lead you to the other section. In the cast part, there are 2 characteristics. The CSS animation enables users to hover over the picture; JavaScript creates the typing lyrics. The combination of two effects creates the illusion that the main actors are telling you the story right now.
 
-**3.**  The sequence of events are showing by date. To know today's upcoming events easier.
+### Page Four- Map
+![](https://res.cloudinary.com/dxzphanl0/image/upload/v1560399907/3.gif)
 
-**4.**  The floating search button will always wait in here to solve most of the searching needs.
-
-**5.**  The **filter** card will pop up after tabing the searching button. ↑ And students can search events by the keywords, categories and dates. So that the home screen will showing as we want later.
-
-**6.**  To catch students' attention, the event detail page shows the event big images or posters first, and the "**join**" button replace of the seaching floating button also attracts us to join it quickly. 
-
-**7.**  Feel free to contact with event's organizer and asking what you're interests or anticipated for the event in the below comments.
-
-<br>
-<br>
-<br>
-
-### Illustrating Categories
-
-School events are sorted by **Sports**, **Music**, **Visual art**, **Social group** and **Volunteering**. 
-To make the visual style and system looks more intuitive and relaxable, I create some illustrations to suit for this product's basically users -- students!  
-
-
-<div class="gallery full" data-columns="3">
-	<img src="/images/google/illustrations/main-pic.png">
-	<img src="/images/google/illustrations/music-pic.png">
-	<img src="/images/google/illustrations/sport-pic.png">
-	<img src="/images/google/illustrations/social-pic.png">
-	<img src="/images/google/illustrations/visualArt-pic.png">
-	<img src="/images/google/illustrations/vol-pic.png">
-</div>
+In the map section, I want to create a mixed reality for users. Since this story has happened in LA, I create a SVG map to represent the real world. Users could click on each part, and the scene that happened in that area will show up, leading users to explore the story as well as the LA city.
 
 
 
-<br>
-<br>
-## UI Viusals
-#### 1-1. Browsing (Mutiple Categories)
 
-- All of today's events are easy to access in this page
-- The mutiple categories searching results is showing here 
-- The students who are unable to come to some or other events can get the recent happening of that by live-recording
-- The floating searching button is waiting for give you help
-- The only one floating searching button at the bottom of the page allows users to reach easily and conveniently.
+### Page Five- Ticket
 
-![](/images/google/ui/uiui1.png)
+![](https://res.cloudinary.com/dxzphanl0/image/upload/v1560400004/4.gif)
 
-#### 1-2. Browsing (Individual Category)
-
-- There are all of the individual category interface possibilities. Different situations of lives also need to be considered. 
-- These illustrations as statistic showing in the top of the interface, which create an activity atmosphere  
- 
-![](/images/google/ui/uiui4.png)
-
-<br>
-
-#### 2. Searching Events
-
-- The quick pop up card is showing from bottom to meet our searching needs.
-- It can be distinguished by typing keyword, selecting category and selecting specific date and time.
-
-###### Category Filtering 
-
-To provide convenience for different students' searching experiences. That would be a better way when students consider different categories of events in the same timeline, which means we don't need to repeat searching and browsing this or that to wasting our time!
-
-![](/images/google/ui/uiui2.png)
-
-###### Visual Iteration
-
-Firstly, I was trying to create illustrations for each category using bold theme color to organize them.
-
-![](/images/google/iteration-1.png)
+In the last section, typing words show again. The reverse of the worlds tells users that the end of this story does not mean the end of everything. I try to connect the movie to the real world by asking them to create their own story. I offer them an input section that they can type in the name of a person that they care about. Then, the name will automatically fill in the next ticket page that they can use for a real-world invitation to someone, to start their own romance.
 
 
+Movie story may have an ending, but our story just beginning. [Hi, can I invite you to watch a movie with me?](https://lizhen-zhu.github.io/lala-land/index.html) 
 
-<br>
-#### 3. Event Detail
+<br><br><br><br><br>
 
-- There is an attractive and appealling page attracting people to join the event
-- Easy to connect with event organizer
-- To increase the event's activeness, feel free to write comments and reviews as we want
+<center>
 
-![](/images/google/ui/uiui3.png)
+  <iframe width="966" height="542" src="https://www.youtube.com/embed/ZJuhgXVwAyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<br>
-<br>
-## UI Kit
-
-Since this application is for students. I picked Red-Orange as mainly color to serve for its visual system. This color embleming young people and our vitality in school life. In the meanwhile, I created a series of illustrations works vividly for these five category, the sports, music, visual arts and so on.   
-
-
-<div class="gallery full" data-columns="2">
-	<img src="/images/google/uikit1.png">
-   <img src="/images/google/uikit2.png">
-</div>
-
-<br>
-	
-
-### UI Gallery
-
-<div class="gallery" data-columns="2">
-	<img src="/images/google/gallery/1.jpg">
-	<img src="/images/google/gallery/2.jpg">
-	<img src="/images/google/gallery/3.jpg">
-	<img src="/images/google/gallery/4.jpg">
-</div>
-
-Here are some mockups showing off the UIs. I hope you like it!
+</center>
+  Click to enter [Advanture in LALALAND](https://lizhen-zhu.github.io/lala-land/index.html) 
+  
+  
+ <br> <br> <br> <br> <br>
 
 Thank you for scrolling to here!
 
+ I hope you like it!
 
 
 
