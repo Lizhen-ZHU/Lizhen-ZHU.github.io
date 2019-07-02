@@ -18,33 +18,44 @@ projects:
   - title: UNITED NATIONS, Umoja Mobile Splash Screen Design
     desc: 
     src: '/images/illustrations/12.jpg'
+
+  - title: UNITED NATIONS, Umoja Mobile Poster Design
+    desc: 
+    src: '/images/illustrations/17.png'
+  - title:  UNITED NATIONS, Umoja Facebook Design
+    desc: 
+    src: '/images/illustrations/18.png' 
+
+  - title:  UNITED NATIONS, Umoja Web Design
+    desc: 
+    src: '/images/illustrations/05.png'
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
-    src: '/images/illustrations/1.jpg'
-    thumb: '/images/illustrations/1.jpg'
+    src: '/images/illustrations/04.png'
+    thumb: '/images/illustrations/04.png'
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
     src: '/images/illustrations/2.png'
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
     src: '/images/illustrations/3.jpg'
- 
 
-  - title:  UNITED NATIONS, Umoja Web Design
-    desc: 
-    src: '/images/illustrations/4.png'
-  - title:  UNITED NATIONS, Umoja Web Design
-    desc: 
-    src: '/images/illustrations/5.png'
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
-    src: '/images/illustrations/6.png'
+    src: '/images/illustrations/7.png'
+  - title:  UNITED NATIONS, Umoja Web Design
+    desc: 
+    src: '/images/illustrations/1.jpg'
+
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
-    src: '/images/illustrations/7.png' 
+    src: '/images/illustrations/6.png' 
   - title: UNITED NATIONS, Umoja Graphic Design
     desc:  
     src: '/images/illustrations/8.jpg'
   - title: UNITED NATIONS, Umoja Graphic Design
     desc: 
     src: '/images/illustrations/9.jpg'
+  - title: UNITED NATIONS, Umoja Mobile Application branding Design
+    desc: 
+    src: '/images/illustrations/16.gif'
