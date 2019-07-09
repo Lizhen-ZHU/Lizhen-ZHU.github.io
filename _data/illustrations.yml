@@ -31,7 +31,7 @@ projects:
     src: '/images/illustrations/05.png'
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
-    src: '/images/illustrations/04.png'
+    src: '/images/illustrations/19.png'
     thumb: '/images/illustrations/04.png'
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
@@ -42,7 +42,7 @@ projects:
 
   - title:  UNITED NATIONS, Umoja Graphic Design
     desc: 
-    src: '/images/illustrations/7.png'
+    src: '/images/illustrations/04.png'
   - title:  UNITED NATIONS, Umoja Web Design
     desc: 
     src: '/images/illustrations/1.jpg'
@@ -56,3 +56,6 @@ projects:
   - title: UNITED NATIONS, Umoja Graphic Design
     desc: 
     src: '/images/illustrations/9.jpg'
+  - title: UNITED NATIONS, Umoja Graphic Design
+    desc: 
+    src: '/images/illustrations/7.png'
