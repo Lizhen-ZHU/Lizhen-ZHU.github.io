@@ -8,20 +8,20 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'UX'
+    - title: 'ID'
       url: '/'
-    - title: 'Coding'
+    - title: 'UX & Web'
       url: '/graphic'
     - title: 'Graphic'
       url: '/illustration'
     - title: 'About'
       url: '/about'
-   
+
 
 footer_settings:
   logo_image: https://res.cloudinary.com/dxzphanl0/image/upload/v1559701016/logo.png
   logo_width: 70
-  footer_tagline: 
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
@@ -142,7 +142,7 @@ font_settings:
     line_height: 1.6
   h6:
     small_size: 15
-    medium_size: 17 
+    medium_size: 17
     large_size: 18
     weight: 700
     letter_spacing: 0
